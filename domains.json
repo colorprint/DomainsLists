@@ -1,9 +1,11 @@
 {
   "version": 3,
   "rules": [
-  "domain_suffix": [
+	{
+  	"domain_suffix": [
         "www-onepick-opensocial.googleusercontent.com", "support.google.com", "labs.google", "aisandbox-pa.googleapis.com", "googleapis.com", "ntc.party", "4pda.to", "netatmo.net", "2ip.io"
-      ]
+      	]
+	}
 ]
 }
 
