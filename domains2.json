@@ -4,7 +4,7 @@
   "rules": [
 	{
   		"domain_suffix": [
-        	"www-onepick-opensocial.googleusercontent.com", "support.google.com", "labs.google", "aisandbox-pa.googleapis.com", "googleapis.com", "ntc.party", "4pda.to", "netatmo.net", "2ip.io", "googletagmanager.com", "apis.google.com", "accounts.google.com", "gayfriendly.dating", "hornet.com", "gethornet.com", "applovin.com", "trafficmanager.net", "dolarapp.com"
+        	"www-onepick-opensocial.googleusercontent.com", "support.google.com", "labs.google", "aisandbox-pa.googleapis.com", "googleapis.com", "ntc.party", "4pda.to", "netatmo.net", "2ip.io", "googletagmanager.com", "apis.google.com", "accounts.google.com", "gayfriendly.dating", "hornet.com", "gethornet.com", "applovin.com", "trafficmanager.net", "dolarapp.com", "bestchange.ru","bestchange.pro"
       		]
 	}
 ]
