@@ -4,7 +4,7 @@
   "rules": [
 	{
   		"domain_suffix": [
-        	"www-onepick-opensocial.googleusercontent.com", "support.google.com", "labs.google", "aisandbox-pa.googleapis.com", "googleapis.com", "ntc.party", "4pda.to", "netatmo.net", "2ip.io", "googletagmanager.com", "apis.google.com", "accounts.google.com", "gayfriendly.dating", "hornet.com", "gthrnt.com", "gethornet.com", "applovin.com", "trafficmanager.net", "dolarapp.com", "redotpay.com", "bestchange.ru","bestchange.pro", "tvrain.tv", "melord.net", "rakuten.com", "lampishe.cc", "clients6.google.com", "habr.com", "iherb.com", "s5a.com", "saksoff5th.com", "luckybrand.com","retailmenot.com", "humblebundle.com"
+        	"www-onepick-opensocial.googleusercontent.com", "support.google.com", "labs.google", "aisandbox-pa.googleapis.com", "googleapis.com", "ntc.party", "4pda.to", "netatmo.net", "2ip.io", "googletagmanager.com", "apis.google.com", "accounts.google.com", "gayfriendly.dating", "hornet.com", "gthrnt.com", "gethornet.com", "applovin.com", "trafficmanager.net", "dolarapp.com", "redotpay.com", "bestchange.ru","bestchange.pro", "tvrain.tv", "melord.net", "rakuten.com", "lampishe.cc", "clients6.google.com", "habr.com", "iherb.com", "s5a.com", "saksoff5th.com", "luckybrand.com","retailmenot.com", "humblebundle.com", "cgtrader.com", "arc.net"
       		]
 	}
 ]
